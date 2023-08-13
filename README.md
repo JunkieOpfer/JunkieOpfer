@@ -1,16 +1,37 @@
-### Hi there 👋
+![image](https://i.postimg.cc/XNK7TZS2/New-Projec33t.png)
 
-<!--
-**JunkieOpfer/JunkieOpfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+```js
+document.write("About Me");
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+var status = 
+{ 
+  learning : [Java(Spring Boot), Rust],
+  interests: [Research, Open Source, Coding]
+}
+
+const skills = 
+{
+  languages :[Cpp, C#, Python, Javascript, React, Typescript, Nodejs, GraphQL],
+  
+  frameworks:[VueJs(Quasar), Flutter, ExpressJs, LambdaJs, Flask, FastAPI, Django],
+  
+  libraries: [ReactJs]
+  
+  databases :[MySql, PostgreSQL, Firebase, DynamoDb, MongoDB],
+  
+  platforms :[GCP, AWS, Firebase, Heroku, Pythonanywhere]
+}
+
+
+Developer dev = new Developer(JunkieOpfer);
+
+while(dev.isCoding() && dev.isStuck())  
+{
+  dev.openBrowser();
+  dev.openStackOverFlow();
+  dev.pasteCodeInIde();
+  dev.feelProfessional();
+}
+```
