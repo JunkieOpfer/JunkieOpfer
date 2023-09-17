@@ -17,7 +17,7 @@ const skills =
   
   frameworks:[VueJs(Quasar), Flutter, ExpressJs, LambdaJs, Flask, FastAPI, Django],
   
-  libraries :[ReactJs]
+  libraries :[ReactJs],
   
   databases :[MySql, PostgreSQL, Firebase, DynamoDb, MongoDB],
   
